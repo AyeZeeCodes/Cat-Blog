@@ -1,10 +1,7 @@
-#My First Webpage
-
-##By Jenna Montero and Alex Zerbach
+#My Cat Blog
 
 ##Description
-This is our first webpage through Epicodus.
-
+This is my blog that is dedicate to cats and all their cat accessories.
 ##Technologies Used
 * HTML
 * Git
