@@ -3,8 +3,9 @@ h1 {
 }
 
 h3 {
-  font-style: italic;
+  font-family: 'Futura', sans-serif;
   text-align: center;
+	font-size: 1.125em;
 }
 
 p {
@@ -15,4 +16,21 @@ p {
 ul {
   font-size: 20px;
   line-height: 30px;
+}
+
+div {
+	width: 23%;
+	height: 23%;
+	float: left;
+	margin: 1%;
+}
+
+img {
+	max-width: 100%;
+}
+
+.center {
+	/*display: block;
+	margin: 0 auto;*/
+	text-align: center;
 }
